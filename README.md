@@ -114,7 +114,7 @@ For any questions or feedback, please open an issue in the repository.
 
 Thank you,
 Pramitha Jayasooriya
-https://pramithamj.me
+https://pramithamj.live
 
 <!--
 buy me a coffee
